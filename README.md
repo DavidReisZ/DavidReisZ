@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**DavidReisZ/DavidReisZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é David.
 
-Here are some ideas to get you started:
+💻 Estudante de Engenharia de Software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Atualmente estudando
+
+- Java
+- Programação Orientada a Objetos
+- Git e GitHub
+- SQL
+
+## 🎯 Objetivo
+
+Conquistar minha primeira oportunidade como Desenvolvedor.
+
+## 🚀 Projetos
+
+Em breve você encontrará aqui meus projetos e minha evolução nos estudos.
+
+Obrigado por visitar meu perfil!
+
+
