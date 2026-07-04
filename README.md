@@ -35,13 +35,15 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DavidReisZ&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidReisZ" />
+</p>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DavidReisZ&layout=compact&theme=tokyonight)
+## 🔤 Linguagens
 
-## 🔤 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidReisZ)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidReisZ" />
+</p>
 
 
 ## 🔥 Atividade no GitHub
