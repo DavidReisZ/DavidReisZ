@@ -1,38 +1,36 @@
- Olá! 👋 Eu sou David Reis
+<h1 align="center">Olá, eu sou David Reis 👋</h1>
 
-🎓 Estudante de Engenharia de Software
-
-💻 Apaixonado por tecnologia e desenvolvimento de software.
+<p align="center">
+💻 Estudante de Análise e Desenvolvimento de Sistemas <br>
+☕ Desenvolvedor Java em formação
+</p>
 
 ---
 
 ## 🚀 Atualmente estudando
 
-- ☕ Java
-- 🧠 Programação Orientada a Objetos
-- 🗄️ SQL
-- 🌿 Git e GitHub
+- Java
+- Programação Orientada a Objetos
+- SQL
+- Git e GitHub
+
+---
+
+## 📂 Repositórios
+
+- ☕ java-fundamentos
+- 🚀 projetos-java
+- 🧠 algoritmos
+- 🗄️ sql-estudos
+- 🌿 git-github
 
 ---
 
 ## 🎯 Objetivo
 
-Construir uma base sólida em desenvolvimento Java e compartilhar minha evolução através de projetos práticos.
+Construir uma carreira como Desenvolvedor Java, criando projetos práticos e evoluindo continuamente.
 
 ---
 
-## 📚 O que você encontrará aqui
+⭐ Obrigado por visitar meu perfil!
 
-- Exercícios de Java
-- Projetos pessoais
-- Estudos sobre Programação Orientada a Objetos
-- Bancos de Dados
-- Desafios de lógica
-
----
-
-## 📈 Em constante evolução
-
-Sempre buscando aprender algo novo e desenvolver projetos cada vez melhores.
-
-Obrigado por visitar meu perfil! ⭐
