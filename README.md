@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/banner-github.png" width="100%" />
+</p>
+
+
 <h1 align="center">Olá, eu sou David Reis 👋</h1>
 
 <p align="center">
