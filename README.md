@@ -35,18 +35,18 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=DavidReisZ&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidReisZ&layout=compact&theme=tokyonight&hide_border=true)
 ## 🔥 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidReisZ&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 Atividade no GitHub
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DavidReisZ&theme=tokyo-night)
 
 ## 📫 Contato
 
