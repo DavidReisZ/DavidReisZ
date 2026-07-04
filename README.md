@@ -52,9 +52,5 @@
 
 ✉️ Email: davidreiscontato27@gmail.com
 
-## 🚀 Sobre mim
 
-- Sempre aprendendo novas tecnologias  
-- Focado em Java e backend  
-- Criando projetos para portfólio  
 
