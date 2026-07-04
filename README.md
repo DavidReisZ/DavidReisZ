@@ -35,7 +35,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DavidReisZ&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidReisZ&show_icons=true&hide_border=true)
 
 ## 🔤 Linguagens mais usadas
 
