@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/user/repo/main/assets/banner.png)
+![banner](https://raw.githubusercontent.com/user/main/assets/banner.png)
 
 <h1 align="center">Olá, eu sou David Reis 👋</h1>
 
