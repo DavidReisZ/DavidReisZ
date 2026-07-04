@@ -33,15 +33,11 @@
 ### 🗄️ Banco de dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidReisZ&show_icons=true" />
-</p>
+![Contributions](https://github.com/DavidReisZ)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidReisZ" />
-</p>
+> Veja minhas contribuições diretamente no perfil acima 👆
 
 
 ## 🔥 Atividade no GitHub
