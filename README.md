@@ -33,12 +33,11 @@
 ### 🗄️ Banco de dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📊 GitHub Activity
+## 🚀 Sobre minha atividade
 
-![Contributions](https://github.com/DavidReisZ)
-
-> Veja minhas contribuições diretamente no perfil acima 👆
-
+- 💻 Sempre desenvolvendo projetos em Java  
+- 📚 Evoluindo em backend e estrutura de dados  
+- 🔧 Publicando projetos no GitHub constantemente  
 
 ## 🔥 Atividade no GitHub
 
